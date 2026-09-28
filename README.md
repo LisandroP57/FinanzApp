@@ -1,1 +1,1 @@
-# FinanciApp
+# FinanzApp
